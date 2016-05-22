@@ -1,0 +1,177 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Welcome",
+        "HeaderText": "Welcome",
+        "Pages": [
+          {
+            "TextLines": [
+              "Welcome To mutingGamingAu's Rust Server",
+              "If you need help you can contact an admin in game or Join The Help Desk on our Teamspeak :",
+              "ts3.mutinygamingau.com",
+              "type <color=red> /info </color> to open this window",
+              "For Updates on the server check the rust section on our forums www.MutingGamingAu.com",
+              "Click Next Page For Staff Members"
+            ],
+            "ImageSettings": [
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.0,
+                  "MaxY": 0.5
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.0,
+                  "MaxX": 0.5,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              },
+              {
+                "Position": {
+                  "MinX": 0.5,
+                  "MaxX": 1.0,
+                  "MinY": 0.5,
+                  "MaxY": 1.0
+                },
+                "Url": "",
+                "TransparencyInPercent": 100
+              }
+            ]
+          },
+          {
+            "TextLines": [
+              "Our Moderators/Admins",
+              "Moderators:",
+              "Wiln8er",
+              "Admins:",
+              "SkittzBoss & Sam ",
+              "Developers:",
+              "Dingy & LandOfKush"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "Think you have what it takes?",
+              "We are currently looking for Staff",
+              "If you know how to Develop/Code Rust OR Moderate",
+              "You can Apply on our forums at:",
+              "www.MutinyGamingAu.Com"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Rules",
+        "HeaderText": "Rules",
+        "Pages": [
+          {
+            "TextLines": [
+              "#1 No Hacking - Glitching - Griefing Or Trolling!",
+              "#2 Keep Racisim - Politics & Religion out of the server.",
+              "#3 Bases Made On Icebergs Or In Rocks Will Be Deleted.",
+              "#4 Don't Impersonate Staff If Caugh you'll Be Banned.",
+              "#5 Dont Advertise Without Permission This Includes (Youtube/Twitch) & Other Servers"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Plugins",
+        "HeaderText": "Plugins",
+        "Pages": [
+          {
+            "TextLines": [
+              "Teleport & Sethome (TPR,TPA,TPC,SetHome,RemoveHome)",
+              "Kits & Donator Kits (/Kits)",
+              "Clans & FriendlyFire (/Clan Help)",
+              "InstantCraft/InstantResearch/Quicksmelt & Gather Manager",
+              "Advanced Hammer "
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://7-themes.com/data_images/out/35/6889756-black-backgrounds.jpg",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#0255255255",
+    "InactiveButtonColor": "#127127127255",
+    "CloseButtonColor": "#127127127255",
+    "NextPageButtonColor": "#127127127255",
+    "PrevPageButtonColor": "#127127127255",
+    "BackgroundColor": "#3f3f3f",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#F2F2F2",
+      "FontSize": 18
+    },
+    "UpgradedConfig": false
+  }
+}
